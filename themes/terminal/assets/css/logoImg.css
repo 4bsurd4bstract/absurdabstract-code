@@ -1,0 +1,9 @@
+.logoImg
+{
+    /*box-sizing: inherit;*/
+    display: inline-block;
+    max-width: 50px;
+    max-height: 50px;
+    background: var(--accent);
+    /*color: var(--background);*/
+}
