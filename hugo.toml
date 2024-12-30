@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://power44.me/'
 languageCode = 'en-us'
-title = 'Absurd Abstract'
+title = 'Julian Power'
 theme = "terminal"
 paginate = 5
 
@@ -55,7 +55,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Absurd Abstract"
+    title = "Julian Power"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -73,5 +73,5 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Absurd Abstract"
+        logoText = "Julian Power"
         logoHomeLink = "/"
