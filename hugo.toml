@@ -6,8 +6,9 @@ paginate = 5
 sectionPagesMenu = "main"
 
 [params]
-
+  centerTheme = false
   themeColor= "custom"
+  fullWidthTheme = true
 [languages.en.params.logo]
   logoText = "Julian Power"
   logoHomeLink = "/"
